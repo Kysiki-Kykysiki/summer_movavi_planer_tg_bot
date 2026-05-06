@@ -1,4 +1,4 @@
-# Planner Bot - Telegram бот для планирования
+# Planner Bot - Telegram бот для планирования 
 
 Бот для создания событий и экспорта в календарь (Google Calendar, Apple Calendar).
 
